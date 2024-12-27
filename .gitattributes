@@ -1,1 +1,2 @@
+*.json filter=lfs diff=lfs merge=lfs -text
 projet_trajectory/Datasets/programming_data_converted.json filter=lfs diff=lfs merge=lfs -text
