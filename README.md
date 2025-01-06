@@ -15,7 +15,7 @@ All the necessary dependencies for this project are listed in the requirements.t
 
 
 # How to Use the Project
-This project contains four notebook files and three Python scripts, originally from another project (link: https://github.com/GCleuziou/code2aes2vec).
+This project contains sven notebook files and three Python scripts, originally from another project (link: https://github.com/GCleuziou/code2aes2vec).
 
 The purpose of this project is to allow users to adapt it to their own data. To do so, simply transform your dataset to match the structure of the project’s data, which can be found in the datasets folder under the name NC5690. Once your data is in the correct format, replace the cells where I import my data with your own.
 
